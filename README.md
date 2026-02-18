@@ -12,7 +12,7 @@ This device is designed to measure, display, and transmit environmental data (Te
 * **Microcontroller:** ESP32-C3 with 2.4GHz Wi-Fi and BLE 5.0.
 * **High-Precision Sensing:** Integrated **SHT45** sensor for accurate climate data.
 * **Display Support:** Dedicated I2C header for OLED displays (SSD1306/SH1106).
-* **Power System:** * USB-C connectivity for power and programming.
+* **Power System:** USB-C connectivity for power and programming.
     * Li-ion/Li-Po battery charging via **NCP73831**.
     * Battery voltage sensing for level monitoring.
 * **User Interface:** Physical buttons for `Reset` and `Boot`.
