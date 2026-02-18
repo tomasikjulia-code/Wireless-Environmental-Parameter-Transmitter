@@ -4,7 +4,7 @@ A professional, compact IoT solution for high-precision environmental monitoring
 
 ---
 
-## 🚀 Overview
+## Overview
 
 This device is designed to measure, display, and transmit environmental data (Temperature & Humidity) over Wi-Fi or Bluetooth LE. It features a robust power circuit, making it suitable for battery-operated remote applications.
 
@@ -19,7 +19,7 @@ This device is designed to measure, display, and transmit environmental data (Te
 
 ---
 
-## 🛠 Hardware Specifications
+## Hardware Specifications
 
 The schematic was developed using **KiCad 9.0**. Key circuit blocks include:
 
@@ -30,7 +30,7 @@ The schematic was developed using **KiCad 9.0**. Key circuit blocks include:
 
 ---
 
-## 📝 License
+## License
 
 This project is open-source. You are free to modify and distribute it for personal or commercial use.
 
