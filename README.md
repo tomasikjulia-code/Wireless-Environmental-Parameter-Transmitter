@@ -28,12 +28,6 @@ The schematic was developed using **KiCad 9.0**. Key circuit blocks include:
 * **Protection:** ESD protection on the USB-C data lines (D+/D-).
 * **Flash Memory:** External SPI Flash for extended data logging or complex firmware.
 
----
-
-## License
-
-This project is open-source. You are free to modify and distribute it for personal or commercial use.
-
 <p align="center">
   <img src="photos/schematic.png" width="600" title="Render projektu płytki">
 </p>
