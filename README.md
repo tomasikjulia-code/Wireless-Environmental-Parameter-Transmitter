@@ -29,5 +29,5 @@ The schematic was developed using **KiCad 9.0**. Key circuit blocks include:
 * **Flash Memory:** External SPI Flash for extended data logging or complex firmware.
 
 <p align="center">
-  <img src="photos/PCB_Schematic.png" width="600" title="Render projektu płytki">
+  <img src="photos/pcb_schematic.png" width="600" title="Render projektu płytki">
 </p>
