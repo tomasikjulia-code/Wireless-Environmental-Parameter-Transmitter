@@ -17,8 +17,8 @@
 #define OLED_RESET -1
 
 // Globalne zmienne
-const char* ssid = "TermoPrecyzja";
-const char* password = "ol!wlYjk54#daWSX234&dskLP";
+const char* ssid = "";
+const char* password = "";
 
 float temp, hum;
 float calTemp;
@@ -346,4 +346,5 @@ void loop(){
     handleSave();
     lastAutoSave = currentMillis;
   }
+
 }
